@@ -11,6 +11,7 @@ Fitness World is designed to help users achieve their health goals with personal
 - Flutter – for cross-platform mobile development
 - Dart – programming language for application logic
 🚀 How to Use the App
+
 - Install the app on your mobile device
 - Enter basic information (age, weight, height, activity level)
 - Choose your fitness goal: Weight Loss, Muscle Gain, or Maintenance
